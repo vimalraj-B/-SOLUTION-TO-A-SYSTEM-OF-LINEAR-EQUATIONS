@@ -14,13 +14,9 @@ Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
 ## Program:
-~~~
-import numpy as np
-A=np.array([[1,3],[2,5]])
-B=np.array([5,-3])
-C=np.linalg.solve(A,B)
-print(C)
-~~~
+
+<img width="779" height="610" alt="Screenshot 2025-08-19 085732" src="https://github.com/user-attachments/assets/3e295727-e1c0-4031-81d8-b396fe110aff" />
+
 
 ## Output:
 
